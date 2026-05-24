@@ -1,5 +1,5 @@
 # Title 
-table  |one    |two    
+table |one   |two    
 --- | --- | ---
-hi     |1      |2      
+hi    |1     |2      
 
